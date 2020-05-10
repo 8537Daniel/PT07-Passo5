@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<style>
+	  table {
+		font-family: arial, sans-serif;
+		border-collapse: collap se;
+		width: 100%;
+	  }
+	  
+	  table, th, td {
+		border: 1px solid #ffff00;
+		border-collapse: collapse;
+	  }
+	  
+	  th, td {
+		padding: 9px;
+		text-align: center;
+		background-color: #f2f2f2f2;
+	  }
+	  
+	</style>
+  </head>
+  <body>
+	<table style="width:100%">
+	  <tr>
+		<td colspan="6"></td>
+		<td colspan="3"><h3 style="text-align:center">Professor</h3></td>
+	  </tr>
+	  <tr>
+		<td><a href="nyckollas_brandao_grande.jpg">						<img src="nyckollas_brandao_pequeno.jpg" alt="Nickollas Caricatura" width="75" height="100"></a>						<pre style="color:red"><h3 style="text-align:center">Nickollas Brandão</h3>12º6 nº20</pre></td>
+		<td><a href="andre_jesus_grande.jpg"> 							<img src="andre_jesus_pequeno.jpg" alt="André Caricatura" width="75" height="100"></a>									<pre style="color:blue"><h3 style="text-align:center">André Jesus</h3>12º6 nº4</pre></td>
+		<td><a href="camilylopes9001200.jpg"> 							<img src="Cópia de Caricatura_camily_crop_24_resize_31.jpg" alt="Camily Caricatura" width="75" height="100"></a>		<pre style="color:coral"><h3 style="text-align:center">Camily Lopes</h3>12º2 nº1</pre></td>
+		<td><a href="IMG_4680we (5).jpg"> 								<img src="IMG_4680we (1).jpg" alt="António Caricatura" width="75" height="100"></a>										<pre style="color:blueviolet "><h3 style="text-align:center">António Amaral</h3>12º2 nº2</pre></td>
+		<td rowspan="3"><pre>	</pre></td>
+		<td><a href="Sem Título-4.jpg"> 								<img src="Sem Título-5.jpg" alt="Leornnado Caricatura" width="75" height="100"></a>										<pre style="color:darkgreen"><h3 style="text-align:center">Leornnado Bernado</h3>12º6 nº19</pre></td>
+		<td><a href="IMG_4680we (4).jpg"> 								<img src="IMG_4680we (8).jpg" alt="Miriam Caricatura" width="75" height="100"></a>										<pre style="color:orange"><h3 style="text-align:center">Miriam Gonçalves</h3>12º6 nº17</pre></td>
+		<td><a href="Paulo900x1200.jpg"> 								<img src="Paulo75x100.jpg" alt="Paulo Caricatura" width="75" height="100"></a>											<pre style="color:peachpuff"><h3 style="text-align:center">Paulo Pinto</h3>12º2 nº20</pre></td>
+		<td><a href="minhacaricatura75100.png"> 						<img src="minhacaricatura9001200.png" alt="João Borges Caricatura" width="75" height="100"></a>							<pre style="color:purple"><h3 style="text-align:center">João Borges</h3>12º2 nº17</pre></td>
+	  </tr>
+	  <tr>
+		<td><a href="Fialh.jpg"> 										<img src="Fialho-Passe.jpg" alt="Ricardo Caricatura" width="75" height="100"></a>										<pre style="color:slateblue"><h3 style="text-align:center">Ricardo Fialho</h3>12º2 nº22</pre></td>
+		<td><a href="WhatsApp Image 2020-04-27 at 17.03.06 (1).jpg"> 	<img src="WhatsApp Image 2020-04-27 at 17.03.06.jpg" alt="Diogo Caricatura" width="75" height="100"></a>				<pre style="color:sandybrown"><h3 style="text-align:center">Diogo Santos</h3>12º2 nº5</pre></td>
+		<td><a href="PT 03 - Caricatura - Sebastião.jpg"> 				<img src="PT 03 - Caricatura - Sebastião (Imagem Pequena).jpg" alt="Sebastião Caricatura" width="75" height="100"></a>	<pre style="color:palegreen"><h3 style="text-align:center">sebastião Antunes</h3>12º2 nº24</pre></td>
+		<td><a href="Guilherme Valiente Caricatura 900 1200.jpg"> 		<img src="Caricatura Guilherme Valiente 75 100.jpg" alt="Guilherme Valiente Caricatura" width="75" height="100"></a>	<pre style="color:teal"><h3 style="text-align:center">Guilherme Valiente</h3>12º2 nº12</pre></td>
+		<td><a href="Francisco Almeida 12º2nº6 900x1200.jpg"> 			<img src="Francisco Almeida12º2nº6.jpg" alt="Francisco Almeida Caricatura" width="75" height="100"></a>					<pre style="color:yellow"><h3 style="text-align:center">Francisco Almeida</h3>12º2 nº6</pre></td>
+		<td><a href="IMG_4680we (2).jpg"> 								<img src="IMG_4680we (6).jpg" alt="Guilherme Cabo Caricatura" width="75" height="100"></a>								<pre style="color:yellowgreen"><h3 style="text-align:center">Guilherme Cabo</h3>12º2 nº7</pre></td>
+		<td><a href="PT03 grande.jpg"> 									<img src="PT03 pequena.jpg" alt="Henrique Caricatura" width="75" height="100"></a>										<pre style="color:peru"><h3 style="text-align:center">Henrique Silva</h3>12º6 nº9</pre></td>
+		<td><a href="IMG_4680we (3).jpg"> 								<img src="IMG_4680we (7).jpg" alt="Xavier Caricatura" width="75" height="100"></a>										<pre style="color:tomato"><h3 style="text-align:center">Xavier Alves</h3>12º6 nº25</pre></td>
+	  </tr>
+	  <tr>
+		<td><a href="leal.jpg"> 										<img src="leal-passe.jpg" alt="João Leal Caricatura" width="75" height="100"></a>										<pre style="color:navy"><h3 style="text-align:center">João Leal</h3>12º2 nº15</pre></td>
+		<td><a href="WhatsApp Image 2020-04-27 at 16.48.07 (1).jpg"> 	<img src="WhatsApp Image 2020-04-27 at 16.48.07.jpg" alt="Miguel Correia Caricatura" width="75" height="100"></a>		<pre style="color:darkslategray"><h3 style="text-align:center">Miguel Correia</h3>12º2 nº20</pre></td>
+		<td><a href="12.2 Pedro Peres 900x1200.jpg"> 					<img src="12.2 Pedro Peres 75x100.jpg" alt="Pedro Peres Caricatura" width="75" height="100"></a>						<pre style="color:magenta"><h3 style="text-align:center">Pedro Peres</h3>12º2 nº21</pre></td>
+		<td><a href="900x1200.jpg"> 									<img src="75x100.jpg" alt="João Silva Caricatura" width="75" height="100"></a>											<pre style="color:lime"><h3 style="text-align:center">João Silva</h3>12º2 nº16</pre></td>
+		<td><a href="Caricatora-1.jpg"> 								<img src="Caricatora_passe.jpg" alt="João Azevedo Caricatura" width="75" height="100"></a>								<pre style="color:indigo"><h3 style="text-align:center">João Azevedo</h3>12º2 nº14</pre></td>
+		<td><a href="foto1.jpg"> 										<img src="foto2.jpg" alt="Nuno Pires Caricatura" width="75" height="100"></a>											<pre style="color:forestgreen"><h3 style="text-align:center">Nuno Pires</h3>12º2 nº12</pre></td>
+		<td><a href="Daniel Dias - Caricatura(900x1200)(1).jpg"> 		<img src="Daniel Dias - Caricatura(100x75).jpg" alt="Daniel Caricatura" width="75" height="100"></a>					<pre style="color:gold"><h3 style="text-align:center">Daniel Dias</h3>12º2 nº4</pre></td>
+		<td></td>
+	  </tr>
+	</table>
+  </body>
+</html>
